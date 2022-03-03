@@ -365,7 +365,7 @@ small {
 }
 
 .h11 {
-    color: white;
+    color: white !important;
 }
 
 .close {
